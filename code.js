@@ -65,7 +65,6 @@ function inputOperator(nextOperator) {
     updateDisplay();
 }
 
-
 // Update display
 
 function updateDisplay() {
